@@ -1,0 +1,1 @@
+docker-compose upでビルドし、dockerのattachコマンドで接続
